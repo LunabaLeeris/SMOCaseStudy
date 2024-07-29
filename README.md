@@ -10,9 +10,12 @@ SMO is one of the techniques for solving the dual problem of Suppose Vector Mach
 # Findings
 The following are the speed of the algorithm, (Without Multi-Threading) relative to the number of training data, where the parameters are 10%, Using Guassian Kernels. 
 
-100 - 1 seconds
+100 - 0.1 seconds
+
 1000 - 10 seconds
+
 10000 - 10 minutes
+
 
 The duration of training seem to increase exponentially as the number of training data increases.
 These findings are consistent with the finding of the paper below. 
