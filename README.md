@@ -1,5 +1,5 @@
 # SMOCaseStudy
-A Case Study on the implementation and effectiveness of Sequential Minimal Optimization.
+A Case Study on the implementation and effectiveness of Sequential Minimal Optimization for binary classification
 
 The following implementation only make use of the following Kernels
 - Gaussian Kernel
