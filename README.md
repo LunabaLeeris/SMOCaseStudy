@@ -5,7 +5,7 @@ The following implementation only make use of the following Kernels
 - Gaussian Kernel
 
 # What is SMO ? 
-SMO is one of the techniques for solving the dual problem of Suppose Vector Machines, leveraging Coordinate Ascent
+SMO is one of the techniques for solving the dual problem of Support Vector Machines, leveraging Coordinate Ascent
 
 # Findings
 The following are the speed of the algorithm, (Without Multi-Threading) relative to the number of training data, where the parameters are 10%, Using Guassian Kernels. 
