@@ -20,5 +20,8 @@ The following are the speed of the algorithm, (Without Multi-Threading) relative
 The duration of training seem to increase exponentially as the number of training data increases.
 These findings are consistent with the finding of the paper below. 
 
+# Remarks
+A cleaner version of the code can be found inside SMOClass.py
+
 # References 
 https://www.researchgate.net/publication/2624239_Sequential_Minimal_Optimization_A_Fast_Algorithm_for_Training_Support_Vector_Machines
